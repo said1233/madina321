@@ -26,33 +26,6 @@
       <a class="social" href=""><img src="https://mars.algoritmika.org/uploads/2021/04/social3_0_1618254571.png" width="100px" height="100px"/></a>
     </footer>
   </body>
-  body {
-    font-family: sans-serif;
-}
 
-h1 {
-    text-align: center;
-    color: #2AB428;
-    font-size: 100px;
-}
-
-nav {
-    padding: 35px 40px 0px 40px;
-}
-
-.link-nav {
-    color: black;
-    font-size: 24px;
-    margin-right: 35px;
-    text-decoration: none;
-    border-bottom: 2px solid black;
-}
-
-.link-header {
-    background-color: #9FEE00;
-    padding: 5px 10px 5px 10px;
-    font-size: 35px;
-    text-decoration: none;
-}
 </html>
 
